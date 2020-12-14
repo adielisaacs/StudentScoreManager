@@ -1,7 +1,8 @@
 # StudentScoreManager
 
-Springboot + MySQL + Vue JS
+Springboot + MySQL + Vue JS + Java 8
 Student Score Manager Application
+
 1.The SQl scripts are there to run on your local database + there is dummy data
 the experian folder is the API project . it needs to be built in maven as a war file and dropped on a server or it could run from your IDE like STS as a springboot application in your IDE or docker/maven run as a jar file.
 
